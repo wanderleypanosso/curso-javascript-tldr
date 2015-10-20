@@ -1,0 +1,3 @@
+docs/**
+!docs/curso-javascript-tldr.pdf
+.DS_Store

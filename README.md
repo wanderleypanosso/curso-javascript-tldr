@@ -32,20 +32,20 @@ Autor
 Conteúdo do Curso
 ----
 
-##  * **Módulo 00** - Apresentação & Introdução ao Curso
-      * **Aula 00** - Bem Vindo ao Fantástico mundo do JS
+  * **Módulo 00** - Apresentação & Introdução ao Curso
+    * **Aula 00** - Bem Vindo ao Fantástico mundo do JS
 
 
-##  * **Módulo 01** - JS Engines, Syntax Parser, Execution Context, Scope Chain
-      * **Aula 01** - JS Engines
-      * **Aula 02** - Global Object & Global Execution Context
-      * **Aula 03** - Execution Contexts & Execution Stack
-      * **Aula 04** - Execution Context e Hoisting
-      * **Aula 05** - Variable Environment
-      * **Aula 06** - Lexical Environment & Scope Chain
+  * **Módulo 01** - JS Engines, Syntax Parser, Execution Context, Scope Chain
+    * **Aula 01** - JS Engines
+    * **Aula 02** - Global Object & Global Execution Context
+    * **Aula 03** - Execution Contexts & Execution Stack
+    * **Aula 04** - Execution Context e Hoisting
+    * **Aula 05** - Variable Environment
+    * **Aula 06** - Lexical Environment & Scope Chain
 
 
-##  * **(...)**
+  * **(...)**
 
 Material do Curso
 ----

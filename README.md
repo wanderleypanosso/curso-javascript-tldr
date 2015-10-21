@@ -16,7 +16,7 @@ O Curso JavaScript TL;DR visa demonstrar todos os aspectos que fazem da Linguage
   * Functional Programming
   * Async Programming
   * ES6
-  * (…)
+  * (…) Em andamento :)
 
 
 Autor
@@ -46,7 +46,7 @@ Conteúdo do Curso
     * **Aula 07** - Lexical Environment & Scope Chain
 
 
-  * **(...)**
+  * **(...)** -  Em andamento :)
 
 Material do Curso
 ----

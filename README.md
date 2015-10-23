@@ -33,7 +33,7 @@ Conteúdo do Curso
 ----
 
   * **Módulo 00** - Apresentação & Introdução ao Curso
-    * **Aula 00** - Bem Vindo ao curso JavaScript TL;DR
+    * **Aula 00** - Bem-vindo ao curso JavaScript TL;DR
 
 
   * **Módulo 01** - JS Engines, Syntax Parser, Execution Context & Scope Chain
